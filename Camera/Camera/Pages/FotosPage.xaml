@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="Camera.Pages.FotosPage" Padding="0, 20, 0, 0">
+    <StackLayout HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand" x:Name="layout">
+        <AbsoluteLayout>
+            <Image Source="{Binding ImgSource}" x:Name="image" />
+            <StackLayout>
+                <Label x:Name="texto" HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand" VerticalTextAlignment="Center" HorizontalTextAlignment="Center" />
+                <Label x:Name="texto2" HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand" VerticalTextAlignment="Center" HorizontalTextAlignment="Center" />
+            </StackLayout>
+        </AbsoluteLayout>
+        <Button Text="Iniciar" x:Name="inicia" Command="{Binding changeAnimationCommand}" />
+    </StackLayout>
+</ContentPage>

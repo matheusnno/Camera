@@ -1,0 +1,16 @@
+/Users/teco2808/Projects/Camera/iOS/bin/iPhone/Release/Camera.iOS.app:/Users/teco2808/Projects/Camera/iOS/obj/iPhone/Release/mtouch-cache/64/Link/Camera.iOS.exe
+/Users/teco2808/Projects/Camera/iOS/bin/iPhone/Release/Camera.iOS.app:/Users/teco2808/Projects/Camera/iOS/obj/iPhone/Release/mtouch-cache/64/Link/mscorlib.dll
+/Users/teco2808/Projects/Camera/iOS/bin/iPhone/Release/Camera.iOS.app:/Users/teco2808/Projects/Camera/iOS/obj/iPhone/Release/mtouch-cache/64/Link/Xamarin.Forms.Core.dll
+/Users/teco2808/Projects/Camera/iOS/bin/iPhone/Release/Camera.iOS.app:/Users/teco2808/Projects/Camera/iOS/obj/iPhone/Release/mtouch-cache/64/Link/System.Core.dll
+/Users/teco2808/Projects/Camera/iOS/bin/iPhone/Release/Camera.iOS.app:/Users/teco2808/Projects/Camera/iOS/obj/iPhone/Release/mtouch-cache/64/Link/System.dll
+/Users/teco2808/Projects/Camera/iOS/bin/iPhone/Release/Camera.iOS.app:/Users/teco2808/Projects/Camera/iOS/obj/iPhone/Release/mtouch-cache/64/Link/Mono.Security.dll
+/Users/teco2808/Projects/Camera/iOS/bin/iPhone/Release/Camera.iOS.app:/Users/teco2808/Projects/Camera/iOS/obj/iPhone/Release/mtouch-cache/64/Link/System.Xml.dll
+/Users/teco2808/Projects/Camera/iOS/bin/iPhone/Release/Camera.iOS.app:/Users/teco2808/Projects/Camera/iOS/obj/iPhone/Release/mtouch-cache/64/Link/Xamarin.Forms.Platform.dll
+/Users/teco2808/Projects/Camera/iOS/bin/iPhone/Release/Camera.iOS.app:/Users/teco2808/Projects/Camera/iOS/obj/iPhone/Release/mtouch-cache/64/Link/Xamarin.Forms.Platform.iOS.dll
+/Users/teco2808/Projects/Camera/iOS/bin/iPhone/Release/Camera.iOS.app:/Users/teco2808/Projects/Camera/iOS/obj/iPhone/Release/mtouch-cache/64/Link/Xamarin.iOS.dll
+/Users/teco2808/Projects/Camera/iOS/bin/iPhone/Release/Camera.iOS.app:/Users/teco2808/Projects/Camera/iOS/obj/iPhone/Release/mtouch-cache/64/Link/System.Net.Http.dll
+/Users/teco2808/Projects/Camera/iOS/bin/iPhone/Release/Camera.iOS.app:/Users/teco2808/Projects/Camera/iOS/obj/iPhone/Release/mtouch-cache/64/Link/System.Runtime.Serialization.dll
+/Users/teco2808/Projects/Camera/iOS/bin/iPhone/Release/Camera.iOS.app:/Users/teco2808/Projects/Camera/iOS/obj/iPhone/Release/mtouch-cache/64/Link/System.ServiceModel.Internals.dll
+/Users/teco2808/Projects/Camera/iOS/bin/iPhone/Release/Camera.iOS.app:/Users/teco2808/Projects/Camera/iOS/obj/iPhone/Release/mtouch-cache/64/Link/Camera.dll
+/Users/teco2808/Projects/Camera/iOS/bin/iPhone/Release/Camera.iOS.app:/Users/teco2808/Projects/Camera/iOS/obj/iPhone/Release/mtouch-cache/64/Link/Xamarin.Forms.Xaml.dll
+/Users/teco2808/Projects/Camera/iOS/bin/iPhone/Release/Camera.iOS.app:/Users/teco2808/Projects/Camera/iOS/obj/iPhone/Release/mtouch-cache/64/Link/Xamanimation.dll
